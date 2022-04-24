@@ -1,0 +1,32 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+footer .btn
+{
+    text-decoration: none;
+    color: #fff;
+    height: 28px;
+    text-align: center;
+    
+
+}
+
+footer .btn:hover{
+    color: rgb(87, 154, 248);
+    text-decoration: underline;
+}
+
+.border-start{
+    margin-left: 20px;
+    
+}
+
+footer p
+{
+    font-size: 12px;
+    
+}
