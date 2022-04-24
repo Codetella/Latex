@@ -11,7 +11,7 @@ footer .btn
     color: #fff;
     height: 28px;
     text-align: center;
-    
+    font-size: 14px;
 
 }
 
@@ -29,4 +29,9 @@ footer p
 {
     font-size: 12px;
     
+}
+
+.main
+{
+    margin: 0 220px 0 10px;
 }
